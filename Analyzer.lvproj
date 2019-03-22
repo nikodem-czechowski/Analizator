@@ -13,6 +13,7 @@
 		<Item Name="add_timetraces_overlay.vi" Type="VI" URL="../add_timetraces_overlay.vi"/>
 		<Item Name="get_map_size.vi" Type="VI" URL="../get_map_size.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="remove_zero_rows.vi" Type="VI" URL="../remove_zero_rows.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
