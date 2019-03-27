@@ -11,7 +11,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="add_timetraces_overlay.vi" Type="VI" URL="../add_timetraces_overlay.vi"/>
+		<Item Name="export_image.vi" Type="VI" URL="../export_image.vi"/>
 		<Item Name="get_map_size.vi" Type="VI" URL="../get_map_size.vi"/>
+		<Item Name="get_timetrace_data_from_cursors.vi" Type="VI" URL="../get_timetrace_data_from_cursors.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="remove_zero_rows.vi" Type="VI" URL="../remove_zero_rows.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
